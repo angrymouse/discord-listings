@@ -1,2 +1,2 @@
-# discord-listings
-Complete list of discord bots and servers listings.
+# Server listings
+### [DISBOARD](https://disboard.org) 
