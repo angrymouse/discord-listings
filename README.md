@@ -28,5 +28,16 @@
   - Bad moderaion.
   - Small tags count.
   - Bad design.
+  - Bad rating system
   - Small traffic (only few, up to 5000 people can join your server)
+- ### [Discord-server](https://discord-server.com)
+  #### Pros:
+  - Russian-most listing, if you have an Russian-based server, you'll reach target audience.
+  - Medium traffic (you can get much members and it's easier to break into top)
+  - Good support server
+  #### Cons:
+  - Bad design
+  - Bad rating system
+  - Bad moderaion.
+  - Small tags count.
   
