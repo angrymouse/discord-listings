@@ -1,2 +1,2 @@
 # Server listings
-### [DISBOARD](https://disboard.org) 
+- ### [DISBOARD](https://disboard.org) 
