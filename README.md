@@ -19,4 +19,13 @@
 - ### [SD.C (server-discord community)](https://server-discord.com)
   SD.C is one of largest Russian server listings
   #### Pros:
-  - Fully Russian listing, if you have an Russian-based 
+  - Fully Russian listing, if you have an Russian-based server, you'll reach target audience.
+  - Small traffic. (It's easy to break into top)
+  - Has own API.
+  - Good support server.
+  #### Cons: 
+  - Bad moderaion.
+  - Small tags count.
+  - Bad design.
+  - Small traffic (only few, up to 5000 people can join your server)
+  
