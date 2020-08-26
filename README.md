@@ -41,3 +41,11 @@
   - Bad moderaion.
   - Small tags count.
   
+- ### [DSI](https://discordserver.info)
+  #### Pros:
+  - Russian-most listing, if you have an Russian-based server, you'll reach target audience.
+  - Good support server
+  #### Cons:
+  - Bad rating system
+  - Small traffic
+  
