@@ -17,7 +17,7 @@
   #### Cons:
   - No rating system, you can't leave review about server.
   - Most english audience and servers (If your server is English-based server, it's fine, but if it's Russian-based, you better look at the next listings)
-- ### [SD.C (server-discord community)](https://server-discord.com)
+- ### [SD.C (Server-Discord.com)](https://server-discord.com)
   SD.C is one of largest Russian server listings
   #### Pros:
   - Fully Russian listing, if you have an Russian-based server, you'll reach target audience.
@@ -25,7 +25,7 @@
   - Has own API.
   - Good support server.
   #### Cons: 
-  - Bad moderaion.
+  - Bad moderation.
   - Small tags count.
   - Bad design.
   - Bad rating system
@@ -40,12 +40,4 @@
   - Bad rating system
   - Bad moderaion.
   - Small tags count.
-  
-- ### [DSI](https://discordserver.info)
-  #### Pros:
-  - Russian-most listing, if you have an Russian-based server, you'll reach target audience.
-  - Good support server
-  #### Cons:
-  - Bad rating system
-  - Small traffic
   
