@@ -1,4 +1,4 @@
-### You're free to contribute this list: just fork it, make changes, and make PR to this repo's mater branch.
+### You're free to contribute this list: just fork it, make changes, and make PR to this repo's master branch.
 # Server listings
 - ### [DISBOARD](https://disboard.org) 
   DISBOARD is one of largest server listings (this site has 150k+ unique visitors per day).
