@@ -1,5 +1,14 @@
 ### You're free to contribute this list: just fork it, make changes, and make PR to this repo's master branch.
 # Server listings
+- ## [Find a Discord](https://findadiscord.com)
+  #### Pros:
+  - Backed by /r/discordservers and [Discord Bots Catalog](https://top-bots.xyz)
+  - Great and fast support
+  - Well moderated
+  - International. This means that there are many people from different countries, so even if the main language of your server is Edo, there will still be people who speak it.
+  - Good traffic-to-server ratio. Your server can get the maximum of members because there are more people here than servers.
+  #### Cons:
+  - This site is quite young, so a bit buggy
 - ### [DISBOARD](https://disboard.org) 
   DISBOARD is one of largest server listings (this site has 150k+ unique visitors per day).
   #### Pros:
